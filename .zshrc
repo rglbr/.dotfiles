@@ -26,6 +26,7 @@ zplug "robbyrussell/oh-my-zsh", use:"lib/*.zsh"
 zplug plugins/git, from:oh-my-zsh
 zplug plugins/fzf, from:oh-my-zsh
 zplug gradle/gradle-completion
+zplug "MichaelAquilina/zsh-you-should-use"
 zplug load --verbose
 
 source ~/.zsh-aliases
