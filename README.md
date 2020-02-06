@@ -10,4 +10,6 @@
 
 `config pull --recurse-submodules`
 
+`config submodule update --init`
+
 `zplug install`
